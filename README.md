@@ -13,8 +13,8 @@ memo.
 
 This line is added in Lesson 2.
 
-<<<<<<< HEAD
 This line is added in Lesson 4-1.
-=======
+
 This line is added in Lesson 4.
->>>>>>> 1dea3f1 (modify file)
+
+This line is added in Lesson 6 (feature_xxxx)
